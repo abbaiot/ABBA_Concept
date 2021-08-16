@@ -1,4 +1,4 @@
-# What is ABBA
+# What is ABBA?
 ABBA stands for Artificial Behaviour Based Authentication. Strictly speaking it is an intrusion detection system that enables a central controler to monitor data from a network of devices for signs of intrusion by an attacker.
 This technique is based off of a weak form of authentication of the data transmitted by networked devices using pulses distributed pseudo-randomly over time. The pulse sequence is akin to a behaviour for any specific device, hence the name of the technique.
 
