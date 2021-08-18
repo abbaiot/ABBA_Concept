@@ -10,8 +10,9 @@ To run the code proposed here, the user will need to install
 To use the Mersenne Twister module, the user will navigate to the .node-red folder and open the setting.re file to add "MersenneTwister:require(mersenne-twister')," in "functionGlobalcontext" (Tested on MacOS and Raspbian).
 
 # Building ABBA
-The source code 
+The [source code](https://github.com/abbaiot/ABBA_Concept/blob/main/src/flows.json) contains multiple flows and subflows that together form a simulation of the proposed intrusion detection technique. In the following paragraphs the content of each flow will be described along with the role of some of the main blocks that are critical for the code the function.  
 ## Transmitter
+
 
 ## Receiver
 
