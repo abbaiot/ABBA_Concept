@@ -12,8 +12,10 @@ To use the Mersenne Twister module, the user will navigate to the .node-red fold
 # Building ABBA
 The [source code](https://github.com/abbaiot/ABBA_Concept/blob/main/src/flows.json) contains multiple flows and subflows that together form a simulation of the proposed intrusion detection technique. In the following paragraphs the content of each flow will be described along with the role of some of the main blocks that are critical for the code the function.  
 ## Transmitter
-
+![ABBA_Tx](https://github.com/abbaiot/ABBA_Concept/blob/main/img/Tx_flow.png)
 
 ## Receiver
+![ABBA_Tx](https://github.com/abbaiot/ABBA_Concept/blob/main/img/Rx_flow.png)
 
 ## User Interface
+![ABBA_Tx](https://github.com/abbaiot/ABBA_Concept/blob/main/img/Dashboard.png)
