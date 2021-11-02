@@ -3,7 +3,7 @@ ABBA stands for Artificial Behaviour Based Authentication. Strictly speaking it 
 This technique is based off of a weak form of authentication of the data transmitted by networked devices using pulses distributed pseudo-randomly over time. The pulse sequence is akin to a behaviour for any specific device, hence the name of the technique.
 
 # Origins
-ABBA was developed mostly at the University of Leeds by [Dr. Raoul F. Guiazon](https://www.linkedin.com/in/raoulguiazon/) with the support of the Royal Academy of Engineering and the Office of the Chief Science Adviser for National Security under the UK Intelligence Community Postdoctoral Fellowship Programme.
+ABBA was developed by [Dr. Raoul F. Guiazon](https://www.linkedin.com/in/raoulguiazon/) with the support of the Royal Academy of Engineering and the Office of the Chief Science Adviser for National Security under the UK Intelligence Community Postdoctoral Fellowship Programme.
 The aim of this project is to improve the security of sensor networks - which are often at the foundation of many critical infrastructure - by increasing the probability of detection of malicious activities within the network.
 
 # Foundation
